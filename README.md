@@ -29,6 +29,6 @@ Despite a majority of the rides taking place in urban cities, weekly earnings in
 Some of the potential ways in which Pyber can change to improve revenue and better serve passengers include the following: 
 - Expand the business more in rural areas, as the average fare per ride and driver is significantly higher than the averages for urban and surburban areas. This may increase the overall total fares earned. 
 
-- Promote the ride-sharing business more in surburban areas, as the average far per ride is higher in comparison to urban areas. This may increase the overall total fares earned in surburban areas. 
+- Promote the ride-sharing business more in surburban areas, as the average fare per ride is higher in comparison to urban areas. This may increase the overall total fares earned in surburban areas, and thus increase the overall total fares earned.
 
-- In addition to charging based on distance, change the pricing setup so that higher fares are charged depending on the type of area the ride is taking place. For example, charging higher prices for rides in rural and surburban areas may incentivize drivers to pickup riders who are requesting rides in more underserved areas. 
+- Change the pricing setup so that higher fares are charged depending on the type of area the ride is taking place. For example, charging higher prices for rides in rural and surburban areas may incentivize drivers to pickup riders who are requesting rides in more underserved areas. 
