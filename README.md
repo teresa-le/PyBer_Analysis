@@ -4,14 +4,6 @@
 
 The purpose of this analysis is to explore the relationship between the type of city and other things, specifically the number of fares earned, the number of drivers, and the number of rides given. The intent is to determine whether there are any patterns that can be uncovered for the purpose of improving Pyber's services and profitability via e.g. increasing ridership in areas where there is room for growth.
 
-
-
-
-
-Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
-
-Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
-
 ## Results
 
 <img src="https://github.com/teresa-le/PyBer_Analysis/blob/main/Resources/Summary%20df.PNG"> 
